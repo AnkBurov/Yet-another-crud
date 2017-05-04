@@ -1,0 +1,3 @@
+rootProject.name = 'yet-another-crud'
+include 'db-executor'
+
